@@ -26,4 +26,4 @@
 
 如果使用 Davinci Resolve 导出小视频到手机发现尺寸变小了，这个小提示或许可以帮到你。	
 
-> [《Davinci Resolve 导出小视频分辨率调整小提示》](https://github.com/LazzaroneS/LazzaroneS.github.io/blob/master/DavinciResolve_Resolution)	——Atank
+> [《Davinci Resolve 导出小视频分辨率调整小提示》](./DavinciResolve_Resolution)	——Atank
