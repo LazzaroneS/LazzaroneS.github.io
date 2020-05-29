@@ -9,5 +9,5 @@
 
 将 Davinci Resolve 的 Timeline Resolution 调整为 1080 × 1260。
 
-[戳我观看操作流程演示…… ](https://github.com/LazzaroneS/LazzaroneS.github.io/blob/master/Davinci_Resolution.mov)
+[戳我观看操作流程演示…… ](https://www.bilibili.com/video/BV1fT4y1u77A)
 
