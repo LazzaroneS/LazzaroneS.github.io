@@ -1,4 +1,4 @@
-# Study Life and Creation
+# Study and Creation Life
 
 Created on May 10, 2020
 

@@ -8,6 +8,8 @@
 
 OK，撸起袖子，开干！
 
+## 入门短视频制作，看这些就够了。
+
 > [《电波君教你做视频之新手指南》](https://www.bilibili.com/read/cv6134491)	——电波君
 >
 > [B站](https://www.bilibili.com/)关注`电波bilibili君` 学习更多视频制作知识
@@ -26,7 +28,15 @@ OK，撸起袖子，开干！
 
 云之絮提供了不错的素材搜集网站。
 
+## 短视频制作进阶
 
+> [After Effects + TypeMonkey制作更进阶的翻转字幕](https://www.bilibili.com/video/BV19x411w74w)    ——《影视飓风》
+
+小伙伴们可能用《字说》App 已经制作出自己的翻转字幕了，可看到高手做出来的翻转字幕，总是比自己做的炫酷好看，也想要做出更高级的翻转效果，怎么办？仔细观看视频、不断尝试，逐渐就会对配色、字体、大小、配色等细节有更深刻的理解。
+
+> [【硬核科普】为什么用绿幕](https://www.bilibili.com/video/BV14t4y1C7Lf)
+
+## 视频制作学习路上可能会遇到一些奇怪的小问题，我会把他们整理在下面。
 
 > [《Davinci Resolve 导出小视频分辨率调整小提示》](https://github.com/LazzaroneS/LazzaroneS.github.io/blob/master/DavinciResolve_Resolution.md)	——Atank
 
